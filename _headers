@@ -9,7 +9,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles.6e991d9f9546b3515b83.css
   Cache-Control: public, max-age=31536000, immutable
-/styles-dd1e70dd0e952cbe60c5.js
+/styles-b502768ac30b02661073.js
   Cache-Control: public, max-age=31536000, immutable
 /commons-be3cdccf35331c69bd51.js
   Cache-Control: public, max-age=31536000, immutable
@@ -41,151 +41,151 @@
   Cache-Control: no-cache
 /portfolio-deploy/offline-plugin-app-shell-fallback/
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---node-modules-gatsby-plugin-offline-app-shell-js-9e2842b22e04347b4e90.js>; rel=preload; as=script
 /portfolio-deploy/404
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-not-found-template-js-e249beba20006372ab8e.js>; rel=preload; as=script
 /portfolio-deploy/tags
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tags-list-template-js-aff67e9eab44c9bc2b27.js>; rel=preload; as=script
 /portfolio-deploy/categories
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-categories-list-template-js-555c60e32b336f47fd95.js>; rel=preload; as=script
 /portfolio-deploy/404.html
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-not-found-template-js-e249beba20006372ab8e.js>; rel=preload; as=script
 /portfolio-deploy/pages/about/
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-page-template-js-239daf4b16cb35f0176f.js>; rel=preload; as=script
 /portfolio-deploy/posts/humane-typography-in-the-digital-age/
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-post-template-js-44d8691eca367c203fbd.js>; rel=preload; as=script
 /portfolio-deploy/posts/the-birth-of-movable-type/
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-post-template-js-44d8691eca367c203fbd.js>; rel=preload; as=script
 /portfolio-deploy/posts/a-brief-history-of-typography/
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-post-template-js-44d8691eca367c203fbd.js>; rel=preload; as=script
 /portfolio-deploy/tag/google-ap-is
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/tag/php
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/tag/react
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/tag/redux
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/tag/ux-process
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/tag/wordpress
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/tag/my-sql
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
 /portfolio-deploy/category/enspiral-dev-academy
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-category-template-js-09e3c1351e12e5ec9f8c.js>; rel=preload; as=script
 /portfolio-deploy/category/yoobee-school-of-design
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-category-template-js-09e3c1351e12e5ec9f8c.js>; rel=preload; as=script
 /portfolio-deploy/
   Link: </portfolio-deploy/webpack-runtime-68b3bc95fd920602f7ed.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/app-71fc88acad7c761ce598.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-dd1e70dd0e952cbe60c5.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-b502768ac30b02661073.js>; rel=preload; as=script
   Link: </portfolio-deploy/commons-be3cdccf35331c69bd51.js>; rel=preload; as=script
   Link: </portfolio-deploy/component---src-templates-index-template-js-f724245609096bbcabaa.js>; rel=preload; as=script
