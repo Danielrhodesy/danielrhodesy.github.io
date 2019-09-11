@@ -15,7 +15,7 @@ socialImage: "/media/mhf1.jpg"
 ---
 
 <figure class="float-right" style="width: 240px">
-	<img src="/media/mhf2.jpg" alt="Gutenberg">
+	<img src="/media/mhf2.jpg" alt="Application Photo">
 </figure>
 
 
