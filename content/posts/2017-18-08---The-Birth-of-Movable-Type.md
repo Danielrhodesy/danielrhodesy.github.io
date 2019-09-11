@@ -25,4 +25,4 @@ I tested these designs multiple times with user groups and one on one tests. And
 This project used wordpress and PHP to create this template. The application had to be responsive over all devices for the clarity of the users to my product owner. The application would let the user create multiple pages and also edit any kind of contacts with making tabs and changing colours to pages of the site.
 
 
-![42-line-bible.jpg](/media/wp.jpg)
+![wp.jpg](/media/wp.jpg)

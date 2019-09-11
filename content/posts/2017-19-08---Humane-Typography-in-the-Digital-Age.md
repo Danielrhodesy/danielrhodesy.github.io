@@ -21,4 +21,4 @@ This application was created in a week with 6 people. Our strengths and weakness
 
 
 
-![42-line-bible.jpg](/media/krt.jpg)
+![krt.jpg](/media/krt.jpg)
