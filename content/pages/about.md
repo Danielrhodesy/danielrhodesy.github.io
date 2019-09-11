@@ -4,10 +4,10 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi im Dan! 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Been introduced to this passion for the last two years and im loving all of it. Web Development for me has given me so many opportunities to understand stand stuff about myself like me enjoy problem solving and also trying to create ideas for application and everyday use. I enjoy the design and creativity of the Front End Development with a love for SASS. I also get stuck into back end and enjoy the process and rules about creating an efficient and smooth foundation for any application. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+With the last two courses I have completed I have not only gained a fullstack of tech skills but also a wide variety of human skills. From properly working and pushing effort in a team, the energy of a few like minded people can far beyond top anything from a single person even if their knowledge is far more vast. With also giving and receiving feedback I have learned skills on how to properly tackle this situations to keep it professional and effective, I find this highly useful to improve myself and teamates. With also being in a lot of teams I have grasped some practice with teaching and helping teammates in tech skills and human skills. But not only teaching but listening to be able to learn and adapt quickly, this being my most highly focused skill to try keeping in this fast flow of tech & human knowledge. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![aboutme.jpg](/media/am.jpg)

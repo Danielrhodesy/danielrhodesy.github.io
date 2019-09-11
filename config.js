@@ -32,7 +32,7 @@ module.exports = {
       github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'daniel-rhodes-269038175',
       instagram: '#',
       line: '',
       gitlab: '',
