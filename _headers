@@ -5,187 +5,244 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-/component---node-modules-gatsby-plugin-offline-app-shell-js-9e2842b22e04347b4e90.js
+/component---node-modules-gatsby-plugin-offline-app-shell-js-befb6b4c5b306d7aaee2.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.6e991d9f9546b3515b83.css
+/styles.fe358c446bd75dbcc252.css
   Cache-Control: public, max-age=31536000, immutable
-/styles-0962ea3e4fa96e82d4b1.js
+/styles-f238d674a3431950c66f.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-6449655ff560e952a041.js
+/commons-ef187c4330d20e688208.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-not-found-template-js-e249beba20006372ab8e.js
+/component---src-templates-not-found-template-js-c847574186a6f5f7f947.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-tags-list-template-js-aff67e9eab44c9bc2b27.js
+/component---src-templates-tags-list-template-js-bbcb1ebfc4de7ef07b03.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-categories-list-template-js-555c60e32b336f47fd95.js
+/component---src-templates-categories-list-template-js-4b7d31fd4967cf7cd004.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-template-js-06029f29b39f0cf43581.js
+/component---src-templates-post-template-js-1289a30de4a72ffc4a05.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-template-js-8b1315f8a74396981ec4.js
+/component---src-templates-page-template-js-3c3dfe8850b5a299f427.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js
+/component---src-templates-tag-template-js-502d09255f9c4daba30e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-category-template-js-09e3c1351e12e5ec9f8c.js
+/component---src-templates-category-template-js-98ae860ffd0238d06ab9.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-index-template-js-f724245609096bbcabaa.js
+/component---src-templates-index-template-js-55b58d549586ac8ea183.js
   Cache-Control: public, max-age=31536000, immutable
-/undefined
+/webpack-runtime-68f98cd99120334fea19.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-ad80e37f5fd23a83ce71.js
+/netlify-identity-widget-9b3b069fbb79b26ac6da.js
   Cache-Control: public, max-age=31536000, immutable
-/app-b41e0c3860935e8ee85f.js
+/app-a6bee9c9127469deb08e.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /portfolio-deploy/offline-plugin-app-shell-fallback/
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---node-modules-gatsby-plugin-offline-app-shell-js-9e2842b22e04347b4e90.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---node-modules-gatsby-plugin-offline-app-shell-js-befb6b4c5b306d7aaee2.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/404
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-not-found-template-js-e249beba20006372ab8e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-not-found-template-js-c847574186a6f5f7f947.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tags
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tags-list-template-js-aff67e9eab44c9bc2b27.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tags-list-template-js-bbcb1ebfc4de7ef07b03.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/categories
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-categories-list-template-js-555c60e32b336f47fd95.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-categories-list-template-js-4b7d31fd4967cf7cd004.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/404.html
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-not-found-template-js-e249beba20006372ab8e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-not-found-template-js-c847574186a6f5f7f947.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/posts/humane-typography-in-the-digital-age/
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-post-template-js-06029f29b39f0cf43581.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-post-template-js-1289a30de4a72ffc4a05.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/posts/the-birth-of-movable-type/
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-post-template-js-06029f29b39f0cf43581.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-post-template-js-1289a30de4a72ffc4a05.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/pages/about/
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-page-template-js-8b1315f8a74396981ec4.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-page-template-js-3c3dfe8850b5a299f427.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/posts/a-brief-history-of-typography/
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-post-template-js-06029f29b39f0cf43581.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-post-template-js-1289a30de4a72ffc4a05.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/google-ap-is
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/google-ap-is/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/php
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/php/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/react
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/react/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/redux
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/redux/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/ux-process
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/ux-process/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/wordpress
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/wordpress/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/tag/my-sql
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-tag-template-js-27ebb129f6eb28e99c0c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-tag-template-js-502d09255f9c4daba30e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/tag/my-sql/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/category/enspiral-dev-academy
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-category-template-js-09e3c1351e12e5ec9f8c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-category-template-js-98ae860ffd0238d06ab9.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/category/enspiral-dev-academy/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/category/yoobee-school-of-design
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-category-template-js-09e3c1351e12e5ec9f8c.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-category-template-js-98ae860ffd0238d06ab9.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/category/yoobee-school-of-design/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-deploy/
-  Link: </portfolio-deploy/webpack-runtime-ad80e37f5fd23a83ce71.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/app-b41e0c3860935e8ee85f.js>; rel=preload; as=script
-  Link: </portfolio-deploy/styles-0962ea3e4fa96e82d4b1.js>; rel=preload; as=script
-  Link: </portfolio-deploy/commons-6449655ff560e952a041.js>; rel=preload; as=script
-  Link: </portfolio-deploy/component---src-templates-index-template-js-f724245609096bbcabaa.js>; rel=preload; as=script
+  Link: </portfolio-deploy/webpack-runtime-68f98cd99120334fea19.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/netlify-identity-widget-9b3b069fbb79b26ac6da.js>; rel=preload; as=script
+  Link: </portfolio-deploy/app-a6bee9c9127469deb08e.js>; rel=preload; as=script
+  Link: </portfolio-deploy/styles-f238d674a3431950c66f.js>; rel=preload; as=script
+  Link: </portfolio-deploy/commons-ef187c4330d20e688208.js>; rel=preload; as=script
+  Link: </portfolio-deploy/component---src-templates-index-template-js-55b58d549586ac8ea183.js>; rel=preload; as=script
+  Link: </portfolio-deploy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-deploy/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
