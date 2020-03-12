@@ -9,16 +9,13 @@ tags:
   - "UX Process"
   - "Wordpress"
   - "PHP"
-description: "This was made in my final term of Yoobee. I created a wordpress templates for our product owner to use and customise to their own design. I used the wordpress codex to create this application also with php."
+description: "This was made in my final term of Yoobee. I created a wordpress templates for our product owner so they could customize thier own site. I used the wordpress codex along with php to create this application."
 socialImage: "/media/wp.jpg"
 ---
 
 ## UX Process
 
-This application started with me going through a UX process multiple times. With a couple weeks I went through the cycle of completing the UX process to get my application to the best it could possibly be before I got into production. It started with general research and interviews with the product owner of what they wanted and what tech I could use to match want he wanted. Then with refining the application with user research from surveys and interviews and repeating this process I started my Low Fi designs. 
-
-I tested these designs multiple times with user groups and one on one tests. And this UX design research caused me to have multiple changes then have my final Hi Fi to put into production.
-
+During these weeks I created open-ended surveys to the target audience. I did interviews with potential users of the application, created wireframes to help get direction with design and the UI of the application. Groups tested were done with the Low-Fi and High-Fi wireframes to groups of people in the target audience. Through multiple iterations and refining of this process, I finalized my project for production.
 
 ## Production
 
