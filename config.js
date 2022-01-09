@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/portfolio-deploy',
   title: 'Daniel Rhodes',
   subtitle: 'My portfolio',
   copyright: '',
