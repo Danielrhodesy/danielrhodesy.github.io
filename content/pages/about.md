@@ -6,8 +6,9 @@ socialImage: "/media/image-2.jpg"
 
 Hi im Dan! 
 
-Been introduced to this passion for the last two years and im loving all of it. Web Development for me has given me so many opportunities to understand stand stuff about myself like me enjoy problem solving and also trying to create ideas for application and everyday use. I enjoy the design and creativity of the Front End Development with a love for SASS. I also get stuck into back end and enjoy the process and rules about creating an efficient and smooth foundation for any application. 
+I have been web developing on a contract basis for the last two years. This has provided me with opportunities to improve on skills and gain the necessary experience in problem solving with both front end and back end applications.  This has also allowed me to improve interacting with clients and the teams including receiving feedback with respect to self/peer reviewing.
 
-With the last two courses I have completed I have not only gained a fullstack of tech skills but also a wide variety of human skills. From properly working and pushing effort in a team, the energy of a few like minded people can far beyond top anything from a single person even if their knowledge is far more vast. With also giving and receiving feedback I have learned skills on how to properly tackle this situations to keep it professional and effective, I find this highly useful to improve myself and teamates. With also being in a lot of teams I have grasped some practice with teaching and helping teammates in tech skills and human skills. But not only teaching but listening to be able to learn and adapt quickly, this being my most highly focused skill to try keeping in this fast flow of tech & human knowledge. 
+In addition to the above I have always ensured that I keep up to date with new tech by additional study and research.
+
 
 ![aboutme.jpg](/media/am.jpg)
